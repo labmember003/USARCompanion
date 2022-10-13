@@ -8,3 +8,13 @@ This app is thoroughly curated by the students, for the students with one of the
 We are committed to providing you with the best user experience possible and will keep on updating this space so that you have access to all the resource material on campus with just a tap on your phone!
 
 Spread the word and tell your friends and wishing you all the best.
+
+<p float="left">
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/1.png" width="300" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/2.png" width="300" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/3.png" width="300" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/4.png" width="300" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/5.png" width="300" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/6.png" width="300" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/7.png" width="300" />
+</p>
