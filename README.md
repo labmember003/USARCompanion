@@ -1,5 +1,5 @@
 # USAR Companion
-A one stop solution for your college academics
+[USAR Companion](https://play.google.com/store/apps/details?id=com.falcon.usarcompanion) - A one stop solution for your college academics
 
 Don't know where to begin? Don't know where the best resources are? Too much to cover up? USAR companion is a one stop solution for all your problems. Here you can find all the resources - notes, books, syllabus, papers and much more. No need to worry about the new curriculum, we have it all coverup. 
 
