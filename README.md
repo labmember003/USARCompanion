@@ -10,11 +10,11 @@ We are committed to providing you with the best user experience possible and wil
 Spread the word and tell your friends and wishing you all the best.
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/1.png" width="300" />
-    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/2.png" width="300" />
-    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/3.png" width="300" />
-    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/4.png" width="300" />
-    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/5.png" width="300" />
-    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/6.png" width="300" />
-    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/7.png" width="300" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/1.png" width="250" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/2.png" width="250" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/3.png" width="250" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/4.png" width="250" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/5.png" width="250" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/6.png" width="250" />
+    <img src="https://raw.githubusercontent.com/labmember003/USARCompanion/main/Screenshots/7.png" width="250" />
 </p>
