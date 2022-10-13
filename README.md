@@ -8,5 +8,3 @@ This app is thoroughly curated by the students, for the students with one of the
 We are committed to providing you with the best user experience possible and will keep on updating this space so that you have access to all the resource material on campus with just a tap on your phone!
 
 Spread the word and tell your friends and wishing you all the best.
- 
-For any query or any issue regarding the app or if you don't see an assignment listed here, write to us at usarcompanion@gmail.com
